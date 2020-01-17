@@ -1,3 +1,3 @@
 # Simple_calculator
 it's a simple calculator program
-![](Simple_calculator/IMAGE.PNG)
+![](https://github.com/walidZW/Simple_calculator/blob/master/IMAGE.PNG)
